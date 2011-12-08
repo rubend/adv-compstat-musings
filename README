@@ -2,7 +2,7 @@ Copyright (C) 2011  Ruben Dezeure
 Contact: dezeurer@student.ethz.ch
 
 Here are my (very early stage) experiments in python with concepts taught in the course Advanced Topics in Computational Statistics taught by Prof. P. Bühlmann and Dr. M. Mächler at the ETH Zurich.
-(The course doesn't have exercise session, I felt like implementing those things.)
+(The course doesn't have exercise sessions, I felt like implementing those things we learned.)
 
 These are my first steps in the python language.
 So far only the k-means implementation is fully functional (although pretty limited).
